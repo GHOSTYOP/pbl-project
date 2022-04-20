@@ -38,6 +38,30 @@ let track_list = [{
         image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
         path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
     },
+     {
+        name: "Lover",
+        artist: "Diljit Dosanjh",
+        image: "https://i.scdn.co/image/ab67616d0000b2733b8fbe2d8b25ca2bfddf5b16",
+        path: "music/lover.mp3",
+    },
+    {
+        name: "Insane",
+        artist: "AP Dhillon",
+        image: "https://a10.gaanacdn.com/images/albums/56/4073656/crop_480x480_4073656.jpg",
+        path: "music/insane.mp3",
+    },
+    {
+        name: "Thats What I Want",
+        artist: "Lil Nas X",
+        image: "https://media1.popsugar-assets.com/files/thumbor/kVqOy8E1htqg0CJJMlWVL-gSPK4/152x0:1714x1562/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/09/18/665/n/1922283/6eb24b6e6145fea6981f28.05720866_/i/lil-nas-x-thats-what-i-want-music-video.png",
+        path: "music/lil.mp3"
+    },
+    {
+        name: "Chaand Baaliyan",
+        artist: "Aditya A",
+        image: "https://a10.gaanacdn.com/images/albums/26/3814826/crop_480x480_3814826.jpg",
+        path: "music/baaliyan.mp3"
+    },
 ];
 
 function random_bg_color() {
